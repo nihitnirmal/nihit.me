@@ -4,7 +4,7 @@ title: Hey, I'm Nihit
 
 <img src="images/Nihit Headshot.jpg" class="profile-img" alt="Nihit" />
 
-Builder, startup operator, and student of strategy. I spend my time thinking about how underdogs win — counter-positioning, asymmetric advantages, and the craft of building something from nothing.
+Builder, startup operator, and student of strategy. I spend my time thinking about how underdogs win, counter-positioning, asymmetric advantages, and the craft of building something from nothing.
 
 This is my digital garden: a place for ideas in progress, notes from books I've read, and frameworks I'm developing.
 
