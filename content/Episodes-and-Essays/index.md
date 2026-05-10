@@ -29,3 +29,4 @@ Articles and podcast episodes that shaped my thinking.
 - [[Jeff Huber - Context Engineering]] — Latent Space
 - [[Lee Robinson - Coding With Cursor]] — How I AI
 - [[Francois Chollet - Pattern Recognition vs Intelligence]] — MLST
+- [[Knowledge-Work Agent Harnesses, Derived from First Principles]] — Nihit Nirmal
