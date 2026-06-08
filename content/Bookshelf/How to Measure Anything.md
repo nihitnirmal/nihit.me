@@ -18,7 +18,10 @@ A field guide to quantifying the things people insist are "intangible." Hubbard'
 
 ## Why This Book Matters to Me
 
-Early in my product management days — 2009–2010, building Jovex — my edge was always being very analytical about product thinking. This book changed how I approach measurability itself. It reframed three questions I keep coming back to: How do you take bets? How do you decide? And how do you build probabilistic, analytical thinking when you have nothing to start with?
+Early in my product management days — 2009–2010 my edge was always being very analytical about product thinking. This book changed how I approach measurability itself. It reframed three questions I keep coming back to:
+1. How do you take bets? 
+2. How do you decide? 
+3. And how do you build probabilistic, analytical thinking when you have nothing to start with?
 
 ---
 

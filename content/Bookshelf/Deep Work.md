@@ -18,7 +18,7 @@ A case that the ability to focus without distraction on a cognitively demanding 
 
 ## Why This Book Matters to Me
 
-*[Nihit — 2-3 lines: what drew you to this book, the one idea that stuck. Delete if not wanted.]*
+This book changed how I think about work. The part that stayed with me is the idea that three things define success: having access to capital, being the best at your craft, and being able to learn hard things. Two of those three are downstream of deep work — which is why it's worth protecting.
 
 ---
 
