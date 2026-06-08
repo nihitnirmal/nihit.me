@@ -192,5 +192,5 @@ Knowledge work doesn't get replaced. It gets sharper, defensible, looped — and
 
 - Viv Trivedy — [Deriving Agent Harnesses from First Principles](https://x.com/Vtrivedy10/status/2031408954517971368) (the framing this post extends)
 - Andrej Karpathy — *"You can outsource inference, you can't outsource understanding."*
-- Hamel Husain — domain-expert evaluation as the loop that teaches the model what good looks like (referenced from [[Projects/Skills/Social Presence/Post 3 - Evals Are Teaching/Draft|Post 3]])
+- Hamel Husain — domain-expert evaluation as the loop that teaches the model what good looks like (referenced from [[Projects/Skills/Social Presence/Post 3 - Evals Are Teaching/Draft - Evals Are Teaching|Post 3]])
 - Conviction Board — [[Projects/Skills/Social Presence/Conviction Board/Conviction Board|in build]] (the worked example referenced throughout)

@@ -28,7 +28,9 @@ Articles and podcast episodes worth revisiting.
 
 ## Writing
 
-*Coming soon* — Essays on startups, strategy, and building.
+Essays on startups, strategy, and building.
+
+→ [[Writing/|Browse writing]]
 
 ---
 
