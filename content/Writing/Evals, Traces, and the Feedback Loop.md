@@ -12,38 +12,40 @@ A friend messaged me last week. He'd been wiring a few agents into his work, got
 
 There's an itch, when a skill underperforms, to fix it right then. Under that itch is an efficiency question that never really stops: do you fix it now, or later?
 
+---
+
 One of the practices I got onto early was sitting with that edge instead of acting on it — writing down what happened instead of fixing and forgetting. When a run comes out clean, it goes into a golden set: real cases with the answer I wanted. When a run slips, the mistake goes into a traces file — the exact input, and what went wrong. A slip doesn't become a golden case until I've fixed it. For the skills that matter, I keep all three together: the skill and its versions, the golden set, the traces.
 
-*Pre-flight output — before / after:*
+> **Before — the slip** — it echoed the line I typed, never read the state:
+>
+> You typed: *"work on the deck."*\
+> Task — Work on the deck.\
+> Goal — Finish the deck.\
+> Done — Deck finished.
 
-```
-Before — the slip (echoed the line I typed, never read the state):
-
-You typed: "work on the deck."
-Task:  Work on the deck.
-Goal:  Finish the deck.
-Done:  Deck finished.
-```
-
-```
-After — the fixed run (reads the project, computes the gap, bounds the action):
-
-Current state:  deck at 7/12 slides; data section blocked on Q3 numbers.
-Goal:           deck ready for Thursday's review.
-Gap:            5 slides + the data section.
-Task (75 min):  draft slides 8–10; stub the data section with placeholders.
-Done:           slides 8–10 drafted, data section stubbed.  (Not "deck finished.")
-```
+> **After — the fixed run** — reads the project, computes the gap, bounds the action:
+>
+> Current state — deck at 7/12 slides; data section blocked on Q3 numbers.\
+> Goal — deck ready for Thursday's review.\
+> Gap — 5 slides + the data section.\
+> Task (75 min) — draft slides 8–10; stub the data section with placeholders.\
+> Done — slides 8–10 drafted, data section stubbed. *(Not "deck finished.")*
 
 None of that takes more than five minutes in the moment. But do it for a week or two on a skill you lean on, and you end up with twenty or thirty real cases — where it went wrong, and what right looked like. When I finally sit down to fix the skill, I'm not guessing at what's broken. I have the list.
 
-I've built skills that saved me real time, and skills that quietly did the wrong thing for days before I caught it. In a product team, the instinct to instrument — to check whether the thing is actually working — is everywhere. On your own, building your own skills, I see almost none of it. That's the part I'm actually writing about.
+I've built skills that saved me real time, and skills that quietly did the wrong thing for days before I caught it. In a product team, the instinct to instrument — to check whether the thing is actually working — is everywhere. On your own, building your own skills, I see almost none of it.
+
+> That's the part I'm actually writing about.
+
+---
 
 Two things started to matter to me early on. One is the feedback loop, in the literal sense — every run either makes the skill better, or leaves behind the thing that will: the trace of what went wrong, the corrected case once I've fixed it. The other is compounding — once you're capturing all of it, you can watch it move: how fast you're fixing things, how many skills are graduating, how often they come out right.
 
 I keep a weekly scorecard for this: how many skills have graduated (graduated means it holds 98% correct or better), the correctness rate, and the average number of turns it takes to get a skill to that bar.
 
-*Weekly skill scorecard (illustrative):*
+---
+
+**Weekly skill scorecard** *(illustrative)*
 
 | Skill | Correctness | Avg turns to graduate | Status |
 |-------|------------|----------------------|--------|
@@ -52,6 +54,8 @@ I keep a weekly scorecard for this: how many skills have graduated (graduated me
 | `dart-close` | tracking | — | loose |
 
 *Graduated this week: 1 of 3 (a skill graduates at ≥98% correctness).*
+
+---
 
 The five-minute fix is the micro move — it gets me through the session. The scorecard is how I know, over weeks, whether I'm moving in the right direction or just changing things.
 
