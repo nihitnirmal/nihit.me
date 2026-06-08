@@ -27,7 +27,7 @@ body {
 
 p, li, td {
   line-height: 1.7;
-  color: #334155; /* Darker slate for better readability */
+  color: #1a1a1a; /* Near-black for legibility on warm paper */
 }
 
 // Stronger bold — inline bold was reading thin/light
@@ -64,7 +64,7 @@ h3 {
 // =============================================================================
 
 blockquote {
-  background: #f8fafc; /* Subtle blue-gray background */
+  background: #f3f1ea; /* Warm tint to match paper background */
   border-left: 4px solid var(--secondary);
   border-radius: 0 var(--card-radius-sm) var(--card-radius-sm) 0;
   padding: 1.25rem 1.5rem;
@@ -74,22 +74,8 @@ blockquote {
     font-style: italic;
     font-size: 1.1rem;
     line-height: 1.6;
-    color: #334155; /* Darker for better readability */
+    color: #1f2937; /* Darker for legibility */
     margin: 0;
-
-    &::before {
-      content: '"';
-      font-size: 1.5rem;
-      color: var(--secondary);
-      margin-right: 0.25rem;
-    }
-
-    &::after {
-      content: '"';
-      font-size: 1.5rem;
-      color: var(--secondary);
-      margin-left: 0.1rem;
-    }
   }
 }
 

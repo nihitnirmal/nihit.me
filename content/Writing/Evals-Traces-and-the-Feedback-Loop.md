@@ -6,13 +6,13 @@ author: Nihit Nirmal
 
 The feedback loop beats the one-shot — build the loose version, instrument it, and let it get better over time.
 
----
+## Why people stop
 
 A friend messaged me last week. He'd been wiring a few agents into his work, got excited, and then — within a couple of weeks — quietly stopped. They weren't doing what he wanted, and fixing them felt like more work than just doing the task himself. He's not wrong, and he's not alone — I see it constantly.
 
 There's an itch, when a skill underperforms, to fix it right then. Under that itch is an efficiency question that never really stops: do you fix it now, or later?
 
----
+## What I do instead
 
 One of the practices I got onto early was sitting with that edge instead of acting on it — writing down what happened instead of fixing and forgetting. When a run comes out clean, it goes into a golden set: real cases with the answer I wanted. When a run slips, the mistake goes into a traces file — the exact input, and what went wrong. A slip doesn't become a golden case until I've fixed it. For the skills that matter, I keep all three together: the skill and its versions, the golden set, the traces.
 
@@ -37,7 +37,7 @@ I've built skills that saved me real time, and skills that quietly did the wrong
 
 > That's the part I'm actually writing about.
 
----
+## Feedback loop and compounding
 
 Two things started to matter to me early on. One is the feedback loop, in the literal sense — every run either makes the skill better, or leaves behind the thing that will: the trace of what went wrong, the corrected case once I've fixed it. The other is compounding — once you're capturing all of it, you can watch it move: how fast you're fixing things, how many skills are graduating, how often they come out right.
 
