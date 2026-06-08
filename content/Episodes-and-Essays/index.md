@@ -4,7 +4,14 @@ cssclasses:
   - hide-listing
 ---
 
-Articles and podcast episodes that shaped my thinking.
+<div class="feature-card">
+<div class="label">Reading</div>
+
+### Episodes & Essays
+
+Articles and podcast episodes that shaped my thinking. Each note pulls out the core ideas and connects them to what I'm building.
+
+</div>
 
 ---
 

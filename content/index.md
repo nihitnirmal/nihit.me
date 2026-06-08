@@ -10,6 +10,14 @@ This is my digital garden: a place for ideas in progress, notes from books I've 
 
 ---
 
+## Writing
+
+Essays on startups, strategy, and building.
+
+→ [[Writing/|Browse writing]]
+
+---
+
 ## Bookshelf
 
 Notes and highlights from books that shaped my thinking.
@@ -23,14 +31,6 @@ Notes and highlights from books that shaped my thinking.
 Articles and podcast episodes worth revisiting.
 
 → [[Episodes-and-Essays/|Browse episodes & essays]]
-
----
-
-## Writing
-
-Essays on startups, strategy, and building.
-
-→ [[Writing/|Browse writing]]
 
 ---
 
