@@ -15,4 +15,4 @@ Essays on startups, strategy, and building.
 
 ---
 
-- [[garden/Writing/Evals-Traces-and-the-Feedback-Loop|Evals, Traces, and the Feedback Loop]] — building AI skills loose-first, then instrumenting the loop
+- [[Writing/Evals-Traces-and-the-Feedback-Loop|Evals, Traces, and the Feedback Loop]] — building AI skills loose-first, then instrumenting the loop

@@ -18,7 +18,7 @@ The result of a five-year study into why a handful of companies made the leap fr
 
 ## Why This Book Matters to Me
 
-*[Nihit — 2-3 lines: what drew you to this book, the one idea that stuck. Delete if not wanted.]*
+The flywheel is what stuck. The idea that greatness comes from pushing consistently in one direction until momentum compounds — not from a single bold move — is the part I actually carry with me. The hedgehog concept I've mostly forgotten; the flywheel I haven't.
 
 ---
 
