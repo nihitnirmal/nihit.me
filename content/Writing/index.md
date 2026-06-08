@@ -8,4 +8,4 @@ Essays on startups, strategy, and building.
 
 ---
 
-- [[Evals, Traces, and the Feedback Loop]] — building AI skills loose-first, then instrumenting the loop
+- [[Evals-Traces-and-the-Feedback-Loop|Evals, Traces, and the Feedback Loop]] — building AI skills loose-first, then instrumenting the loop

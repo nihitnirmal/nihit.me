@@ -30,6 +30,11 @@ p, li, td {
   color: #334155; /* Darker slate for better readability */
 }
 
+// Stronger bold — inline bold was reading thin/light
+strong, b {
+  font-weight: 700;
+}
+
 // Article title - larger, bolder
 article > h1 {
   font-size: 2.25rem;
