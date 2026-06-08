@@ -506,3 +506,54 @@ article.hide-listing + .page-listing {
     height: 100px;
   }
 }
+
+// =============================================================================
+// TABLE OF CONTENTS — minimal, Ajey-style
+// No card/box, no "Table of Contents" header or chevron, no bullets.
+// Just a quiet muted list with a thin left rule; active section darkens.
+// =============================================================================
+.toc {
+  overflow-y: visible;
+  flex: 0 0 auto;
+  min-height: auto;
+
+  // hide the boxed "Table of Contents" header + collapse chevron
+  button.toc-header {
+    display: none !important;
+  }
+
+  // the list itself — always visible, no box, thin left rule
+  ul,
+  ul.toc-content,
+  ul.toc-content.overflow {
+    list-style: none !important;
+    margin: 0;
+    padding: 0.1rem 0 0.1rem 0.9rem;
+    border-left: 1px solid var(--lightgray);
+    max-height: none !important;
+  }
+
+  li {
+    list-style: none !important;
+    margin: 0.18rem 0;
+
+    &::marker {
+      content: none;
+    }
+  }
+
+  li > a {
+    color: var(--gray);
+    opacity: 1 !important;
+    font-size: 0.82rem;
+    line-height: 1.45;
+    text-decoration: none;
+    transition: color 0.2s ease;
+
+    &:hover,
+    &.in-view {
+      color: var(--dark);
+      opacity: 1 !important;
+    }
+  }
+}
