@@ -56,18 +56,19 @@ I keep a weekly scorecard for this — not per skill, but counts: how many have 
 
 ---
 
-**Weekly skill scorecard** *(illustrative)*
+**Skill scorecard** 
 
-| Status | Count | Avg turns to graduate |
-|--------|-------|----------------------|
-| Graduated (≥96%) | 4 | ~3 |
-| In progress | 5 | — |
-| In view | 6 | — |
+| Status           | Count | Avg turns to graduate |
+| ---------------- | ----- | --------------------- |
+| Graduated (≥96%) | 14    | ~6                    |
+| In progress      | 8     | —                     |
+| In view*         | 13    | —                     |
 
+ *In view skills are the ones where I am just recording the number of times I run into them, and I keep a log if I need to re-scope one of the existing skills or create a net new one.
 ---
 
 The five-minute fix is the micro move — it gets me through the session. The scorecard is the macro one: how I know, over weeks, whether I'm actually moving forward or just changing things.
 
-There's a third thing I'm still working out — whether all of this actually saves me time, or makes me money. For a knowledge worker that's what finally counts, but it's harder to measure honestly, so I'll leave it for another post.
+There's a larger question I'm still working out — how to quantify how much of this actually saves me time and/or makes me money.
 
-If you're building your own skills this way — keeping the traces, watching whether they actually get better — I'd be glad to compare notes.
+I'm generally curious to talk to like-minded people who are building with AI,  which is non-performative and, in a way, where it's compounding your workflow. Looking forward to putting together a small group. Not a cohort, not a community, just a small group where you can share your workflows and jam and get feedback.
